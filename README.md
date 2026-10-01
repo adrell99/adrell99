@@ -38,8 +38,11 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Mi Filosofía de Trabajo
+
+> "Persistence is very important. You should not give up unless you are forced to give up."
+>
+> — **Elon Musk**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adrell99&icon=0&color=0)](https://visitcount.itsvg.in)
